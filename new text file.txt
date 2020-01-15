@@ -6,3 +6,5 @@ three lines later
 Working doc
 
 Epidemiology vs. MPH, that is the real question
+
+The reason to use GitKraken is to track each change as it is made, and keep a log of all changes to my work.
