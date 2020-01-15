@@ -1,9 +1,4 @@
-hello
-
-
-three lines later
-
-Working doc
+Working doc - previous lines deleted as I am beginning to learn to use this program
 
 Epidemiology vs. MPH, that is the real question
 
